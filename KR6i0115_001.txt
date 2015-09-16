@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:11.506111
+#+DATE: 2015-08-30 20:10:12.698795
 #+TITLE: 師子莊嚴王菩薩請問經
 #+PROPERTY: CBETA_ID T14n0486
 #+PROPERTY: ID KR6i0115
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 486
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0115_T_000-0697a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0115_T_001-0697a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.486¶
+No. 486¶
 
-師子莊嚴王菩薩請問經序
-:PROPERTIES:
-:head: 師子莊嚴王菩薩請問經序
-:END:
-¶
+師子莊嚴王菩薩請問經序¶
 ¶
 終南山豐德寺律師道宣撰¶
 
@@ -41,8 +37,7 @@ No.486¶
 起機緣之淨業。輒以所聞序之。云爾。¶
 ¶
 ¶
-
- 師子莊嚴王菩薩請問經¶
+師子莊嚴王菩薩請問經¶
 ¶
 大唐中印度三藏那提譯¶
 
