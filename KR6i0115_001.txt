@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:12.698795
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:37
 #+TITLE: 師子莊嚴王菩薩請問經
 #+PROPERTY: CBETA_ID T14n0486
 #+PROPERTY: ID KR6i0115
@@ -14,7 +14,7 @@
 ¶
 No. 486¶
 
-師子莊嚴王菩薩請問經序¶
+* 師子莊嚴王菩薩請問經序¶
 ¶
 終南山豐德寺律師道宣撰¶
 
